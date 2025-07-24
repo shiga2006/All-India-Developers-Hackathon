@@ -9,15 +9,15 @@ Let’s be real — the Indian legal system isn’t exactly easy to deal with. F
 
 Here’s what they’re up against:
 
-Legal help mostly exists in English or major languages
+a) Legal help mostly exists in English or major languages
 
-Lawyers can be costly and hard to access
+b) Lawyers can be costly and hard to access
 
-Legal documents? Super hard to understand
+c) Legal documents? Super hard to understand
 
-Emergencies don’t wait, but legal support often does
+d) Emergencies don’t wait, but legal support often does
 
-Most people don’t even know their basic rights
+e) Most people don’t even know their basic rights
 
 🤔 So Why Did We Pick This?
 Okay, we’ll be honest — it wasn’t just about being “socially responsible” or “politically aware” 😅
@@ -29,17 +29,17 @@ We’re building a smart, friendly, and multilingual AI platform that can guide 
 
 Imagine talking to a chatbot that:
 
-Understands your language
+1) Understands your language
 
-Explains legal terms in plain words
+2) Explains legal terms in plain words
 
-Helps during emergencies
+3) Helps during emergencies
 
-Fills out forms for you
+4) Fills out forms for you
 
-Gives advice based on real legal cases
+5) Gives advice based on real legal cases
 
-Works 24/7, anytime you need it
+6) Works 24/7, anytime you need it
 
 That’s ParaLegal AI in a nutshell.
 
@@ -47,27 +47,27 @@ That’s ParaLegal AI in a nutshell.
 Honestly? Everyone.
 But especially:
 
-People in rural or remote areas
+-People in rural or remote areas
 
-Anyone who can’t afford a lawyer
+-Anyone who can’t afford a lawyer
 
-Women in distress or unsafe environments
+-Women in distress or unsafe environments
 
-Migrant workers, students, or first-time legal users
+-Migrant workers, students, or first-time legal users
 
-Anyone who just wants clear, fast answers
+-Anyone who just wants clear, fast answers
 
 🚀 Our Mission
 We believe justice shouldn't be a luxury.
 With ParaLegal AI, we want to make legal help:
 
-Simple
+➡️Simple
 
-Accessible
+➡️Accessible
 
-Affordable
+➡️Affordable
 
-And most importantly, human-centered
+➡️And most importantly, human-centered
 
 Final Thoughts
 This isn’t just another app. It’s a step toward making sure no one is left out of the justice system just because they didn’t know where to start.
